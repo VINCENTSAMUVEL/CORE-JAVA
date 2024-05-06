@@ -4,7 +4,9 @@ public class Datatype{
 
 		System.out.println("Types of datas");
 
-datas();
+         datas();
+         types();
+         variable();
 
 	}
 
@@ -14,5 +16,16 @@ datas();
 
 		System.out.println("Primitive Datatype");
 	}
+
+	public static void types(){
+
+		System.out.println("Two");
+	}
+
+	public static void variable(){
+
+		System.out.println("Value");
+	}
 }
+
 
